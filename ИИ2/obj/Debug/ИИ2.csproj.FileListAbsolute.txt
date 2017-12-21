@@ -1,0 +1,10 @@
+C:\Users\Natasha\Desktop\ИИ2\ИИ2\bin\Debug\ИИ2.exe.config
+C:\Users\Natasha\Desktop\ИИ2\ИИ2\bin\Debug\ИИ2.exe
+C:\Users\Natasha\Desktop\ИИ2\ИИ2\bin\Debug\ИИ2.pdb
+C:\Users\Natasha\Desktop\ИИ2\ИИ2\obj\Debug\ИИ2.csprojResolveAssemblyReference.cache
+C:\Users\Natasha\Desktop\ИИ2\ИИ2\obj\Debug\ИИ2.Form1.resources
+C:\Users\Natasha\Desktop\ИИ2\ИИ2\obj\Debug\ИИ2.Properties.Resources.resources
+C:\Users\Natasha\Desktop\ИИ2\ИИ2\obj\Debug\ИИ2.csproj.GenerateResource.Cache
+C:\Users\Natasha\Desktop\ИИ2\ИИ2\obj\Debug\ИИ2.csproj.CoreCompileInputs.cache
+C:\Users\Natasha\Desktop\ИИ2\ИИ2\obj\Debug\ИИ2.exe
+C:\Users\Natasha\Desktop\ИИ2\ИИ2\obj\Debug\ИИ2.pdb
